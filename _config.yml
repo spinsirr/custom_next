@@ -686,7 +686,7 @@ comments:
 # For more information: https://disqus.com
 disqus:
   enable: true
-  shortname: spencer_zhao
+  shortname: https-spinsirr-github-io
   count: true
 
 # DisqusJS
